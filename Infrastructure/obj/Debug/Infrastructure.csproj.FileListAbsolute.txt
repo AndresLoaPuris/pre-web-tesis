@@ -1,0 +1,9 @@
+C:\Users\halo3\Desktop\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\halo3\Desktop\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\halo3\Desktop\Infrastructure\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\halo3\Desktop\Infrastructure\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\halo3\Desktop\Infrastructure\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\halo3\Desktop\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\halo3\Desktop\Infrastructure\obj\Debug\Infrastructure.csproj.CopyComplete
+C:\Users\halo3\Desktop\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\halo3\Desktop\Infrastructure\obj\Debug\Infrastructure.pdb

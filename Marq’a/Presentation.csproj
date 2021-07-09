@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Marq_a</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Black.otf" />
+    <Content Remove="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Bold.otf" />
+    <Content Remove="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Medium.otf" />
+    <Content Remove="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-MediumItalic.otf" />
+    <Content Remove="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Regular.otf" />
+    <Content Remove="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-RegularItalic.otf" />
+    <Content Remove="wwwroot\Authentication\assets\img\backgrounds\pattern-shapes.png" />
+    <Content Remove="wwwroot\Authentication\js\scripts.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Black.otf" />
+    <None Include="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Bold.otf" />
+    <None Include="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Medium.otf" />
+    <None Include="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-MediumItalic.otf" />
+    <None Include="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-Regular.otf" />
+    <None Include="wwwroot\Authentication\assets\fonts\metropolis\Metropolis-RegularItalic.otf" />
+    <None Include="wwwroot\Authentication\assets\img\backgrounds\pattern-shapes.png" />
+    <None Include="wwwroot\Authentication\js\scripts.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.5" />
+    <PackageReference Include="System.Net.Http.Json" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Application\Application.csproj" />
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+
+</Project>

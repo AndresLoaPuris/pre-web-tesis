@@ -1,0 +1,11 @@
+C:\Users\halo3\Desktop\Domain\bin\Debug\Domain.dll
+C:\Users\halo3\Desktop\Domain\bin\Debug\Domain.pdb
+C:\Users\halo3\Desktop\Domain\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\halo3\Desktop\Domain\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\halo3\Desktop\Domain\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\halo3\Desktop\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\halo3\Desktop\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\halo3\Desktop\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\halo3\Desktop\Domain\obj\Debug\Domain.dll
+C:\Users\halo3\Desktop\Domain\obj\Debug\Domain.pdb
+C:\Users\halo3\Desktop\Domain\bin\Debug\System.ComponentModel.Annotations.dll
